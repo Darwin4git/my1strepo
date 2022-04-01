@@ -1,2 +1,2 @@
 # my1strepo
-starting github
+starting github i  hope to learn from here
